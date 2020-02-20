@@ -1,0 +1,22 @@
+{
+  "name": "uls-auth-lib",
+  "version": "1.0.1",
+  "description": "The library for checking if the user is authenticated with the uls system",
+  "main": "uls-auth-lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+http://173.212.200.108:7990/scm/uls/uls-auth-lib.git"
+  },
+  "keywords": [
+    "mongo"
+  ],
+  "author": "Luis Kugel",
+  "license": "MIT",
+  "homepage": "http://173.212.200.108:7990/projects/ULS",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
